@@ -1,0 +1,28 @@
+﻿.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+.dropdown:hover {
+    border-bottom: solid red 4px;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 5px;
+}
+
+.dropdown:hover .dropdown-menu a:hover {
+    color: rgb(33, 209, 57);
+}
+
+.jumbotron {
+    background-color: rgb(193, 197, 182);
+}
+
+.panel-footer {
+    background-color: rgb(24, 21, 9);
+    color: #fff;
+    border-radius: 0;
+    margin-top: 220px;
+}
